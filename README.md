@@ -16,3 +16,8 @@ Privacy](https://tanginstitute.andover.edu/files/How-to-Respond...Privacy.pdf) b
 * [The Secretive Company That Might End Privacy as We Know It](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 * [Snapchat Settles FTC Charges That Promises of Disappearing Messages Were False](https://www.ftc.gov/news-events/press-releases/2014/05/snapchat-settles-ftc-charges-promises-disappearing-messages-were), Federal Trade Commission
 * [Lawmakers seem confused about what Facebook does — and how to fix it](https://www.vox.com/policy-and-politics/2018/4/10/17222062/mark-zuckerberg-testimony-graham-facebook-regulations), by Emily Stewart at Vox
+* [Patriot Act](https://www.freedomforuminstitute.org/first-amendment-center/topics/freedom-of-speech-2/libraries-first-amendment-overview/patriot-act/) by David L. Hudson Jr. at the Freedom Forum Institute
+* [TikTok just gave itself permission to collect biometric data on US users, including ‘faceprints and voiceprints’](https://techcrunch.com/2021/06/03/tiktok-just-gave-itself-permission-to-collect-biometric-data-on-u-s-users-including-faceprints-and-voiceprints/?guccounter=1) by Sarah Perez at TechCrunch
+* [What Has Technology Fixed Since 9/11?](https://www.technologyreview.com/2011/09/09/21715/what-has-technology-fixed-since-911/) by David Freedman at MIT Technology Review
+* [What Mark Zuckerberg Really Means When He Talks About the Metaverse](https://slate.com/technology/2021/10/facebook-metaverse-privacy-meta-what-it-means.html) by Matt Bailey at Slate
+* [Why Privacy Matters](https://whyprivacymatters.org/) by Miles McCain
