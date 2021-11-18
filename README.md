@@ -1,5 +1,6 @@
 # Notes from a presentation on surveillance
 _Nicholas Zufelt, 9/11s Colloquium_
+
 _November 10, 2021_
 
 I recently gave a presentation to a class at Andover called "9/11s", focusing on the events and aftermath of September 11, 2001. I chose to speak about the impact that the passing of the Patriot Act had on public perception of survelliance practices. In this repository, I place my slides and some of the most useful resources I used in preparation for this presentation.
